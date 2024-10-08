@@ -1,3 +1,4 @@
+#The below commented line of code is used to generate the color_list using img.jpg
 # import colorgram
 #
 #
